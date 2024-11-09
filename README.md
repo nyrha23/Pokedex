@@ -16,6 +16,8 @@ Proyecto centrado en FrontEnd consumiendo una API.
 - HTML
 - CSS
 - JavaScript
+
+## Próximas tecnologías a utilizar
 - Node.js
 - React
 - Vite
