@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Pokedex App, desarrollado por Trinidad Pasi. Desarrollo FrontEnd consumiendo una API.">
+    <title>Pokédex</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="icon" type="image/png" href="/img/pokeball.png" sizes="16x16"/>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/flexbox.css">
+  </head>
+
+  <body>
+    <div class="body-container">
+      <header>
+        <div class="header-container">
+          <div class="title-container">
+            <button id="menu-toggle" aria-label="Abrir menú">
+              <i id="menu-icon" class="fa-solid fa-bars"></i>
+            </button>
+            <a href="index.html"><h1>Pokédex</h1></a>
+            <button id="theme-toggle"><i id="theme-icon" class="fa-regular fa-sun"></i>Light</button>
+          </div>
+          <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Buscar Pokémon" />
+            <button id="searchButton"><i class="fa-solid fa-magnifying-glass"></i></button>
+          </div>
+          <nav id="nav-type"></nav>
+        </div>
+      </header>
+    
+      <main>
+        <section class="hero-container">
+          <img class="hero-img" src="img/hero.webp" alt="Bienvenidos a la Pokédex">
+          <div class="hero-txt">
+            <h2>Bienvenidos a la Pokédex</h2>
+            <p>Explora el mundo de los Pokémon</p>
+          </div>
+        </section>
+    
+        <section id="app">
+          <div class="card-container" id="card-container"></div>
+        </section>
+
+        <!-- Pop up -->
+        <div id="popup"></div>
+
+      </main>
+      
+      <aside>
+        <div class="pagination" id="pagination"></div>
+      </aside>
+    
+      <footer>
+        <div class="footer-container">
+          <div class="footer-info">
+            <p>&copy; 2024 Pokédex App by Trinidad Pasi</p>
+            <span>
+              <a href='https://github.com/nyrha23' target='_blank'><i class="fa-brands fa-github"></i></a>
+              <a href='https://www.linkedin.com/in/trinidad-pasi/' target='_blank'><i class="fa-brands fa-linkedin"></i></a>
+              <a href='https://www.instagram.com/nyrha23' target='_blank'><i class="fa-brands fa-instagram"></i></a>
+            </span>
+          </div>
+          <p class="footer-note">Pokémon y los nombres de los personajes de Pokémon son marcas comerciales de Nintendo.</p>
+        </div>
+      </footer>
+      <script src="script.js"></script>
+    </div>
+  </body>
+
+</html>
