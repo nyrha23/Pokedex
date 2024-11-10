@@ -1,6 +1,6 @@
 [![GitHub](https://img.shields.io/badge/nyrha23-C71585?style=flat-square&logo=github&logoColor=white&labelColor=101010)](https://github.com/nyrha23) 
 [![DiscordUser](https://img.shields.io/badge/nyrha23-7B68EE?style=flat-square&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/) 
-[![LinkedIn](https://img.shields.io/badge/Trinidad_Pasi-4169E1?style=flat-square&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/trinidad-pasi/) 
+[![LinkedIn](https://img.shields.io/badge/Trinidad_Pasi-4169E1?style=flat-square&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/trinidadpasi/) 
 [![Instagram](https://img.shields.io/badge/nyrha23-FF7F50?style=flat-square&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/nyrha23/) 
 
 # Pokedex
