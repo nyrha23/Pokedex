@@ -22,7 +22,7 @@ Proyecto centrado en FrontEnd consumiendo una API, puede observarla desde [aqui]
 - React
 - Vite
 
-## Instalación 
+### Instalación 
 
 1. Antes de realizar la instalación asegúrate de tener instalados en la máquina Node.js y NPM, con los siguientes comandos podrás verificarlo y en caso de tener instalado ambos sabrás con que versión cuentas
 
