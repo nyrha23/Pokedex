@@ -220,10 +220,10 @@ nav li:hover {
   border: 1px solid var(--border-color);
   border-radius: 1rem;
   box-shadow: 0 4px 8px var(--shadow);
-  cursor: pointer;
 }
 .card:hover {
   border: 2px solid var(--border-color-hover);
+  cursor: pointer;
 }
 .card img {
   width: 120px;
