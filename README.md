@@ -11,6 +11,8 @@ Proyecto centrado en FrontEnd consumiendo una API, puede observarla desde [aqui]
 - URL: pokeapi.co
 - Descripción: Una API que proporciona información sobre Pokémon, incluyendo detalles de cada uno, estadísticas, habilidades y movimientos.
 
+![ImagenPokedex](/img/Pokedex.jpg) 
+
 ## Tecnologías utilizadas
 
 - HTML
